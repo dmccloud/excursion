@@ -1,0 +1,55 @@
+* {
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 6px;
+}
+
+header {
+  align-content: center;
+  text-align: center;
+  color: white;
+}
+
+header h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+a {
+  color: white;
+  align-content: center;
+  text-align: center;
+}
+a:hover {
+  color: orange;
+  align-content: center;
+  text-align: center;
+}
+
+.content {
+  align-content: center;
+  text-align: center;
+  color: white;
+}
+
+.content p {
+  color: gray;
+  font-size: 21px;
+}
+
+#download-link {
+  align-content: center;
+  text-align: center;
+}
+
+#headings {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#footer {
+  text-align: right;
+  align-content: right;
+  color: gray;
+}
